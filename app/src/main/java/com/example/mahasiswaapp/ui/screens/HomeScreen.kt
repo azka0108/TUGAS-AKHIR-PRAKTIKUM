@@ -64,7 +64,6 @@ fun HomeScreen(navController: NavController, viewModel: MahasiswaViewModel) {
 
                         Row {
 
-
                             Spacer(modifier = Modifier.width(8.dp))
 
                             Button(
